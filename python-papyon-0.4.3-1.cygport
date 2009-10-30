@@ -1,0 +1,5 @@
+inherit distutils
+
+DESCRIPTION="Telepathy MSN python library"
+HOMEPAGE="http://telepathy.freedesktop.org/wiki/Papyon"
+SRC_URI="http://telepathy.freedesktop.org/releases/papyon/${ORIG_PN}-${PV}.tar.gz"
