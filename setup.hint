@@ -1,5 +1,5 @@
 category: Net Python
-requires: python python-crypto python-farsight python-gobject2.0 python-gst0.10 python-openssl
+requires: python python-crypto python-farsight python-gobject python-gst0.10 python-openssl
 sdesc: "Python MSN messenger client library"
 ldesc: "papyon is an MSN client library for Python that tries to 
 abstract the MSN protocol gory details. papyon is a fork of the 
